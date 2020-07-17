@@ -1,0 +1,21 @@
+.progress1 {
+    height: 35px;
+  
+  }
+  .progress1 .skill1 {
+    font: normal 12px "Open Sans Web";
+    line-height: 35px;
+    padding: 0;
+    margin: 0 0 0 20px;
+    text-transform: uppercase;
+  }
+  .progress1 .skill1 .val1 {
+    float: right;
+    font-style: normal;
+    margin: 0 20px 0 0;
+  }
+  
+  .progress-bar1 {
+    text-align: left;
+    transition-duration: 3s;
+  }
